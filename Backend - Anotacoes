@@ -1,0 +1,17 @@
+Metodos HTTP:
+
+- GET: Retrieve backend information
+- POST: Create backend information
+- PUT: Update backend information
+- DELELE: Delete backend information
+
+Tipos de parametros de request:
+
+- Query Params: Parametros nomeados enviados na rota após o simbolo "?". (filtros, paginação) pode anexar usando &
+- Route Params: Parametros utilizados para identificar recursos
+- Body Params: corpo da requisição, utilizado para criar ou alterar recursos.
+
+Bancos de Dados:
+
+- SQL: MySql, SQLite, PostgreSQL, Oracle, Microsoft SQL Server
+- NOSQL; MongoDB, CouchDB, etc
